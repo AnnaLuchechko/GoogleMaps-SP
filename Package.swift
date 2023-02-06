@@ -41,28 +41,28 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "GoogleMaps",
-            url: "https://github.com/darrarski/GoogleMaps-SP/releases/download/7.1.0/GoogleMaps.xcframework.zip",
-            checksum: "825102248e774c68c330cad1873834864ad152441bb36effbcb23993d1e1da4a"
+            url: "https://github.com/AnnaLuchechko/GoogleMaps-SP/releases/download/7.3.0/GoogleMaps.xcframework.zip",
+            checksum: "ea7e9cf5ca34953bff256d32d4b71f3bf1f98d6bf49ed0a8f7c71a8b5d3dc937"
         ),
         .binaryTarget(
             name: "GoogleMapsBase",
-            url: "https://github.com/darrarski/GoogleMaps-SP/releases/download/7.1.0/GoogleMapsBase.xcframework.zip",
-            checksum: "485e5123233f682befcd6e9e13c7452abdcbc2992dedad1bbb9326a541af5e04"
+            url: "https://github.com/AnnaLuchechko/GoogleMaps-SP/releases/download/7.3.0/GoogleMapsBase.xcframework.zip",
+            checksum: "4d36230ce6ea2197d681c6bb44fb77003e706707b32ee5baad3a2d89e3e904cd"
         ),
         .binaryTarget(
             name: "GoogleMapsCore",
-            url: "https://github.com/darrarski/GoogleMaps-SP/releases/download/7.1.0/GoogleMapsCore.xcframework.zip",
-            checksum: "77123c2d929d22502498e0bf1581f32355e4bd1e8211ef288c7869e981051002"
+            url: "https://github.com/AnnaLuchechko/GoogleMaps-SP/releases/download/7.3.0/GoogleMapsCore.xcframework.zip",
+            checksum: "beb61f5091d13e741c1a7cff79c35fff32a90bbda50b649e7d4a7075a60f3215"
         ),
         .binaryTarget(
             name: "GoogleMapsM4B",
-            url: "https://github.com/darrarski/GoogleMaps-SP/releases/download/7.1.0/GoogleMapsM4B.xcframework.zip",
-            checksum: "e6290834d28f6a3ead9180bf83f85b4fe5954e1c20efd6f5eaffafbcbfc6a390"
+            url: "https://github.com/AnnaLuchechko/GoogleMaps-SP/releases/download/7.3.0/GoogleMapsM4B.xcframework.zip",
+            checksum: "2fce7e59ee4b931ee59b25b8ef1761921ce10e2fed94b63ce20ddb459e4d0028"
         ),
         .binaryTarget(
             name: "GooglePlaces",
-            url: "https://github.com/darrarski/GoogleMaps-SP/releases/download/7.1.0/GooglePlaces.xcframework.zip",
-            checksum: "f03f9ea1e7357df6b42b41e8fe8ca9c7b28c05f9a0305dab4997cc8b04d61503"
+            url: "https://github.com/AnnaLuchechko/GoogleMaps-SP/releases/download/7.3.0/GooglePlaces.xcframework.zip",
+            checksum: "05701ed1e31e60445f235c7dba6e6a21a815a0df3cc817b68f43fca6e65c4dcb"
         )
     ]
 )
